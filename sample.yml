@@ -1,0 +1,5 @@
+defaults:
+  reply_to: 'Sample User <no-reply@example.com>'
+    
+development:
+  reply_to: 'Sample User <test-account@example.com>'
