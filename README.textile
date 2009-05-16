@@ -1,0 +1,3 @@
+h1. ConfigReader
+
+This is the old outdated plugin version. You probably want the "gem version":http://github.com/UnderpantsGnome/config_reader-gem/tree/master
